@@ -1,0 +1,2 @@
+# Power-BI
+learning powerbi
