@@ -1,0 +1,44 @@
+
+Microsoft Power BI Course
+Data Source:
+1. Sign in to Data.World with your Gmail account.
+2. Access the dataset using the provided link:
+https://data.world/vancegentlechen/public-v31-k-12-school-shooting-datab
+ase/workspace/file?filename=Public+v3.1+K-12+School+Shooting+Databa
+se.xlsx
+3. From Get data, connect through Data.World connection (not as excel or
+web data)
+4. Take the appropriate owner id and dataset id to connect with the dataset.
+5. Load incident and weapon table.
+Data Cleaning and Transformation:
+1. Replace all null values in the "weapon_type" column of the "weapon" table
+with "Others."
+Map Visualization:
+1. Create a map visual to display the location of the number of victims.
+2. Apply a filter to show only incidents in Alpine, Baldwin, and Barbetron
+states.
+3. Enable category labels on the map.
+4. Change the map style to "Light."
+Treemap Visualization:
+1. Create a Treemap visual to show the date of the shooter_killed and the
+number of victims on those dates.
+2. Apply a filter to display data only for January, July, and November.
+3. Turn off the date hierarchy.
+Ribbon Chart:
+1. Create a ribbon chart to display the number of victims.
+2. Use the count of the city as a legend.
+3. Apply small multiples to show the location.
+4. Make sure to display data for Junior High distribution only.
+Contact us: support@intellipaat.com / © Copyright Intellipaat / All rights reserved
+Intel iPaat
+Microsoft Power BI Course
+Slicer:
+1. Create a slicer visual to show the location of the incident.
+2. Change the slicer style to "Tile."
+Publish to Power BI Service:
+1. Publish the report to Power BI Service.
+2. Ensure that the report is accessible and shared appropriately.
+Quick Insights and Dashboard:
+1. In Power BI Service, open the published report.
+2. Click on "Quick Insights" to generate insights automatically.
+3. Pin the last two insights to your dashboard for easy access.
